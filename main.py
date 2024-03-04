@@ -52,12 +52,12 @@ def save_as_yaml(data, filename):
 
 if __name__ == "__main__":
     # NBT 파일 로드
-    nbtfile = nbt.NBTFile("example_structure.nbt", "rb")
+    nbtfile = nbt.NBTFile("dirtfarm.nbt", "rb")
 
     # NBT 데이터를 Python 딕셔너리로 변환
     data = nbt_to_dict(nbtfile)
 
     # 변환된 데이터를 YAML 파일로 저장
-    save_as_yaml(data, "example_structure.nbt.yaml")
+    save_as_yaml(data, "dirtfarm.nbt.yaml")
 
     print("NBT to YAML conversion completed. Check output.yaml.")
