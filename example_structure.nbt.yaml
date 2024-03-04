@@ -1,0 +1,250 @@
+DataVersion: 2584
+size:
+  - 12
+  - 2
+  - 2
+palette:
+  - Name: minecraft:stone
+  - Name: minecraft:air
+blocks:
+  - state: 0
+    pos:
+      - 0
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 1
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 2
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 3
+      - 0
+      - 0
+  - state: 1
+    pos:
+      - 4
+      - 0
+      - 0
+  - state: 1
+    pos:
+      - 5
+      - 0
+      - 0
+  - state: 1
+    pos:
+      - 6
+      - 0
+      - 0
+  - state: 1
+    pos:
+      - 7
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 8
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 9
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 10
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 11
+      - 0
+      - 0
+  - state: 0
+    pos:
+      - 0
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 1
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 2
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 3
+      - 0
+      - 1
+  - state: 1
+    pos:
+      - 4
+      - 0
+      - 1
+  - state: 1
+    pos:
+      - 5
+      - 0
+      - 1
+  - state: 1
+    pos:
+      - 6
+      - 0
+      - 1
+  - state: 1
+    pos:
+      - 7
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 8
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 9
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 10
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 11
+      - 0
+      - 1
+  - state: 0
+    pos:
+      - 0
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 1
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 2
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 3
+      - 1
+      - 0
+  - state: 1
+    pos:
+      - 4
+      - 1
+      - 0
+  - state: 1
+    pos:
+      - 5
+      - 1
+      - 0
+  - state: 1
+    pos:
+      - 6
+      - 1
+      - 0
+  - state: 1
+    pos:
+      - 7
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 8
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 9
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 10
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 11
+      - 1
+      - 0
+  - state: 0
+    pos:
+      - 0
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 1
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 2
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 3
+      - 1
+      - 1
+  - state: 1
+    pos:
+      - 4
+      - 1
+      - 1
+  - state: 1
+    pos:
+      - 5
+      - 1
+      - 1
+  - state: 1
+    pos:
+      - 6
+      - 1
+      - 1
+  - state: 1
+    pos:
+      - 7
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 8
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 9
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 10
+      - 1
+      - 1
+  - state: 0
+    pos:
+      - 11
+      - 1
+      - 1
+entities: []
